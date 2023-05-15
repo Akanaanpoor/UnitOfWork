@@ -1,0 +1,36 @@
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\bin\Debug\net7.0\Domain.deps.json
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\refint\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Domain\obj\Debug\net7.0\ref\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\bin\Debug\net7.0\Domain.deps.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\refint\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Domain\obj\Debug\net7.0\ref\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\bin\Debug\net7.0\Domain.deps.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\refint\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Domain\obj\Debug\net7.0\ref\Domain.dll

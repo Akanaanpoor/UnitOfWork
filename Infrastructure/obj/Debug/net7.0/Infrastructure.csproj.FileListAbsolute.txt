@@ -1,0 +1,57 @@
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

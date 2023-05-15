@@ -1,0 +1,164 @@
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\appsettings.Development.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\appsettings.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Presentation.exe
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Presentation.deps.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Presentation.runtimeconfig.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Presentation.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Presentation.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Azure.Core.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Azure.Identity.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Humanizer.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.CodeDom.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets.build.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\staticwebassets.development.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\refint\Presentation.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\UnitOWork\obj\Debug\net7.0\ref\Presentation.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\appsettings.Development.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\appsettings.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Presentation.exe
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Presentation.deps.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Presentation.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Presentation.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Presentation.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Azure.Core.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Azure.Identity.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Humanizer.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.CodeDom.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Infrastructure.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Infrastructure.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.build.Presentation.props
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Presentation.props
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Presentation.props
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets.build.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\staticwebassets.development.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\scopedcss\bundle\Presentation.styles.css
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.csproj.CopyComplete
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\refint\Presentation.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\Presentation.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Presentation\obj\Debug\net7.0\ref\Presentation.dll

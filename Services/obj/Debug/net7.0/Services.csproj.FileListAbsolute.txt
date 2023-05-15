@@ -1,0 +1,51 @@
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Services.deps.json
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\refint\Services.dll
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+G:\Prg\aref Prg\DotNetCore\Learning Sln\Learning\Services\obj\Debug\net7.0\ref\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Services.deps.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\refint\Services.dll
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+G:\Prg\aref Prg\DotNetCore\Unit of Work\Services\obj\Debug\net7.0\ref\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Services.deps.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Services.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Domain.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\bin\Debug\net7.0\Domain.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\refint\Services.dll
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.pdb
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\Services.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Unit Of Work\Unit Of Work\Services\obj\Debug\net7.0\ref\Services.dll
